@@ -3,4 +3,4 @@ git commit -m "message goes here"
 git push -u origin master //for the first time later use git push
 
 =======
-git status to check status
+git status //to check status
